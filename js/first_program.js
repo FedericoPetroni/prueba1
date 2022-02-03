@@ -5,3 +5,5 @@ function titleH1 (title) {
 }
 
 titleH1("Hello World!")
+
+document.write("Este texto debiera aparecer luego del tag h1 por medio ed un document.write()");
